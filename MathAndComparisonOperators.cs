@@ -8,6 +8,8 @@ namespace MathAndComparisonOperators
 {
     class Program
     {
+        private const int V = 150432100;
+
         static void Main(string[] args)
         {
             //int total = 5 + 10;
@@ -48,7 +50,18 @@ namespace MathAndComparisonOperators
             //Console.WriteLine(isWarm);
             //Console.ReadLine();
 
+            //int V = 542000034;
+            //int num1 = V * 50;
+            //Console.WriteLine(num1);
+            //Console.ReadLine();
 
+            //int num1 = 10 + 25;
+            //Console.WriteLine(num1);
+            //Console.ReadLine();
+
+            //bool trueorFalse = 40 < 50;
+            //Console.WriteLine("Is Forty Greater Than 50? " + trueorFalse.ToString());
+            //Console.ReadLine();
         }
     }
 }
