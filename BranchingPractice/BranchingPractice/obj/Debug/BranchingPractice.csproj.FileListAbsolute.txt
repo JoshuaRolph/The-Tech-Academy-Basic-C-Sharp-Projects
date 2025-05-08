@@ -1,0 +1,7 @@
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingPractice\BranchingPractice\bin\Debug\BranchingPractice.exe.config
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingPractice\BranchingPractice\bin\Debug\BranchingPractice.exe
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingPractice\BranchingPractice\bin\Debug\BranchingPractice.pdb
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingPractice\BranchingPractice\obj\Debug\BranchingPractice.csproj.AssemblyReference.cache
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingPractice\BranchingPractice\obj\Debug\BranchingPractice.csproj.CoreCompileInputs.cache
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingPractice\BranchingPractice\obj\Debug\BranchingPractice.exe
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingPractice\BranchingPractice\obj\Debug\BranchingPractice.pdb
