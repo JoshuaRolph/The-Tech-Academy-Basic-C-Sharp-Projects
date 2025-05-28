@@ -1,0 +1,7 @@
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsandIntegersAssignment\StringsandIntegersAssignment\bin\Debug\StringsandIntegersAssignment.exe.config
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsandIntegersAssignment\StringsandIntegersAssignment\bin\Debug\StringsandIntegersAssignment.exe
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsandIntegersAssignment\StringsandIntegersAssignment\bin\Debug\StringsandIntegersAssignment.pdb
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsandIntegersAssignment\StringsandIntegersAssignment\obj\Debug\StringsandIntegersAssignment.csproj.AssemblyReference.cache
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsandIntegersAssignment\StringsandIntegersAssignment\obj\Debug\StringsandIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsandIntegersAssignment\StringsandIntegersAssignment\obj\Debug\StringsandIntegersAssignment.exe
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsandIntegersAssignment\StringsandIntegersAssignment\obj\Debug\StringsandIntegersAssignment.pdb
