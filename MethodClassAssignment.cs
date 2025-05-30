@@ -13,6 +13,12 @@ namespace MethodClassAssignmentSubmission
         // Void method that takes two integers as parameters
         public void PerformOperation(int num1, int num2)
         {
+
+            // Instantiate? //
+            MathOperations MathOperations = new MathOperations();
+
+            MathOperations.PerformOperation(num1: 10, num2: 20);
+
             // Perform a mathematical operation on the first integer (e.g., square it)
             int result = num1 * num1;
 
