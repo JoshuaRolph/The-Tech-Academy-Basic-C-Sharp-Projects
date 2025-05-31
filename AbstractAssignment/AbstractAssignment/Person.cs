@@ -8,8 +8,8 @@ namespace AbstractAssignment
 {
     public abstract class Person
     {
-        public string firstName;
-        public string lastName;
+        public string firstName { get; set; }
+        public string lastName { get; set; } 
 
         public virtual string SayName()
         {

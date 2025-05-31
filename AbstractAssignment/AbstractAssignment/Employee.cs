@@ -8,10 +8,11 @@ namespace AbstractAssignment
 {
     public class Employee : Person
     {
+        public int Id { get; set; }
         public override string SayName()
         {
-            Console.WriteLine("Employee");
-            return base.SayName();
+            Console.WriteLine("Employee:" + firstName + " " + lastName);
+            return SayName();
         }
     }
 }
