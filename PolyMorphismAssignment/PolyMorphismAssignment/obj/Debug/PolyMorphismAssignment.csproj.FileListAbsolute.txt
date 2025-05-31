@@ -1,0 +1,7 @@
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\PolyMorphismAssignment.exe.config
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\PolyMorphismAssignment.exe
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\PolyMorphismAssignment.pdb
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\PolyMorphismAssignment.csproj.AssemblyReference.cache
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\PolyMorphismAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\PolyMorphismAssignment.exe
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\PolyMorphismAssignment.pdb
