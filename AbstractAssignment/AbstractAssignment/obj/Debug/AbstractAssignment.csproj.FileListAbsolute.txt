@@ -1,0 +1,6 @@
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractAssignment\AbstractAssignment\obj\Debug\AbstractAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractAssignment\AbstractAssignment\bin\Debug\AbstractAssignment.exe.config
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractAssignment\AbstractAssignment\bin\Debug\AbstractAssignment.exe
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractAssignment\AbstractAssignment\bin\Debug\AbstractAssignment.pdb
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractAssignment\AbstractAssignment\obj\Debug\AbstractAssignment.exe
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractAssignment\AbstractAssignment\obj\Debug\AbstractAssignment.pdb

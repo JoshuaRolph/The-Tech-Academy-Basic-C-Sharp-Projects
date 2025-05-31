@@ -1,0 +1,2 @@
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Person\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Person\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
