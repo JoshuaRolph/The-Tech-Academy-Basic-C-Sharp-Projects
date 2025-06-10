@@ -1,0 +1,2 @@
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\DaysOfWeek\obj\Debug\DaysOfWeek.csproj.AssemblyReference.cache
+C:\Users\jrolp\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\DaysOfWeek\obj\Debug\DaysOfWeek.csproj.CoreCompileInputs.cache
