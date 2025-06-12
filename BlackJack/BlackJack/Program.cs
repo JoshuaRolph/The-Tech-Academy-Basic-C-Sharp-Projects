@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
+using Casino;
+using Casino.BlackJack;
 
 namespace BlackJack
 {
@@ -11,10 +8,10 @@ namespace BlackJack
     {
         static void Main(string[] args)
         {
+            const string casinoName = "Grand Hotel and Casino";
+            Guid identifier = Guid.NewGuid();
 
-            
-            // Start of Main code. //
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
             Console.WriteLine("And How much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());

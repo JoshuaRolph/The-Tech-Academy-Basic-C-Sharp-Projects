@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace BlackJack
+namespace Casino
 {
     public class Dealer
     {
@@ -18,7 +18,7 @@ namespace BlackJack
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
-            using (StreamWriter file = new StreamWriter (@"C:\\Users\\jrolp\Documents\\Logs\\BlackJack.txt", true))
+            using (StreamWriter file = new StreamWriter (@"C:\\Users\\jrolp\\Documents\\Logs\\BlackJack.txt", true))
             {
                 file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
