@@ -54,19 +54,18 @@ namespace CarInsurance.Controllers
             {
                 decimal quote = 50;
                 int age = 0;
+                
+                // Input The Age //
                 if (insuree.DateOfBirth.HasValue)
                 {
                     age = DateTime.Now.Year - insuree.DateOfBirth.Value.Year;
                 }
 
-                if(insuree.CarYear < 2000)
-                {
-                    quote = quote + 25;
-                }
-                if (insuree.CarYear > 2015) ;
-                {
-                    quote = quote + 25;
-                }
+                if (age <= 18) quote += 100;
+                else if (age >= 19 && age <= 25) quote += 50;
+                else quote += 25;
+                // Input The Age //
+
                 if (insuree.CarMake.ToLower() == "porsche") quote += 25;
                 if (insuree.CarMake.ToLower() == "porsche" && insuree.CarModel.ToLower() == "911 carrera") quote += 25; 
 
